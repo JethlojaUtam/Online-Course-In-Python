@@ -1,0 +1,5 @@
+x = input("Enter a first number:")
+print(end=" ")
+print(end="\n")
+y = input("Enter a second number:")
+print(x,y)
