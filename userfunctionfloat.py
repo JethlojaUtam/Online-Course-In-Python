@@ -1,0 +1,6 @@
+x = float(input("Enter a first number:"))
+y = float(input("Enter a second number:"))
+print(x,y)
+print(x,y,sep="/")
+print(type(x))
+print(type(y))
